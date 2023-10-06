@@ -118,7 +118,6 @@ A collection of resources and tools I accumulated during my bootcamp journey. Fe
   - [Learn X in Y Minutes: JavaScript](https://learnxinyminutes.com/docs/javascript/)
   - [Visual Studio Code: JavaScript](https://code.visualstudio.com/docs/languages/javascript)
   - [Lodash Documentation](https://lodash.com/docs#before)
-  - [Lodash GitHub Repository](https://github.com/lodash/lodash/tree/master/.internal)
   - [Axios Documentation](https://axios-http.com/docs/intro)
 
 ## React 
@@ -179,7 +178,7 @@ A collection of resources and tools I accumulated during my bootcamp journey. Fe
 
 ## Tailwind 
 - [Tailwind Components](https://tailwindcomponents.com/cheatsheet/)
-- [Tailwind Elementsr](https://tailwind-elements.com/docs/standard/getting-started/quick-start/)
+- [Tailwind Elements](https://tailwind-elements.com/docs/standard/getting-started/quick-start/)
 
 
 ## UX 
