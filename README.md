@@ -25,6 +25,7 @@ A collection of resources and tools I accumulated during my bootcamp journey. Fe
   - [Behavioural Interviews](#behavioural-interviews)
   - [Technical Interviews](#technical-interviews)
   - [Job Hunt Resources](#job-hunt-resources)
+  - [Volunteer Opportunities](#volunteer-opportunities)
         
 ## Books
 - [Grokking Algorithms - Interactive PDF](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf)
@@ -237,3 +238,6 @@ A collection of resources and tools I accumulated during my bootcamp journey. Fe
 - [Otta](https://otta.com/)
 - [Muse - Job Search](https://www.themuse.com/)
 - [Startup Jobs](https://wellfound.com//)
+
+## Volunteer Opportunities
+- [Catch a Fire](https://www.catchafire.org/volunteer-discover/)
