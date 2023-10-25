@@ -109,6 +109,7 @@ A collection of resources and tools I accumulated during my bootcamp journey. Fe
     - [Google Fonts](https://fonts.google.com/)
     - [Font Pairing](https://www.fontpair.co/all)
     - [HTML Colour Picker](https://www.w3schools.com/colors/colors_picker.asp)
+    - [Colour Palette Generator](https://uicolors.app/create)
     - [ColorHub](https://www.colorhub.app/preview)
     - [CSS Gradient Generator](https://cssgradient.io/)
     - [Lorem Picsum - Photo Placeholders](https://picsum.photos/)
