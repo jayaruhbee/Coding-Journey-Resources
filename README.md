@@ -219,6 +219,8 @@ A collection of resources and tools I accumulated during my bootcamp journey. Fe
 - [System Design Interview Primer Repo](https://github.com/donnemartin/system-design-primer/tree/master)
 - [NeetCode Roadmap](https://neetcode.io/roadmap)
 - [Blind 75](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+- [Coding Interview Study Plan](https://www.techinterviewhandbook.org/coding-interview-study-plan/)
+  
 
 
 ## Job Hunt Resources
